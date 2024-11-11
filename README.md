@@ -1,5 +1,8 @@
 # PLP-Python-Week-2-Assignment
 
+
+
+
 ## Instructions
 
 1.	Create an empty list called my_list.
@@ -9,6 +12,13 @@
 5.	Remove the last element from my_list.
 6.	Sort my_list in ascending order.
 7.	Find and print the index of the value 30 in my_list.
+
+
+
+
+
+
+
 
 
 
